@@ -6,6 +6,7 @@ License:        GPL-3.0-or-later
 URL:            https://www.gnome.org
 Source:         https://download.gnome.org/sources/ptyxis/46/ptyxis-%{version}.tar.xz
 
+BuildRequires:  gettext
 BuildRequires:  desktop-file-utils
 BuildRequires:  meson
 BuildRequires:  pkgconfig
