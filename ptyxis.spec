@@ -1,3 +1,6 @@
+%global optflags %{optflags} -Wno-error -Wno-implicit-function-declaration
+%global optflags %{optflags} -Wno-incompatible-function-pointer-types
+
 Name:           ptyxis
 Version:        46.2
 Release:        1
