@@ -2,7 +2,7 @@
 %global optflags %{optflags} -Wno-incompatible-function-pointer-types
 
 Name:           ptyxis
-Version:        46.2
+Version:        46.3
 Release:        1
 Summary:        A terminal for GNOME with first-class support for containers
 License:        GPL-3.0-or-later
