@@ -1,6 +1,9 @@
 %global optflags %{optflags} -Wno-error -Wno-implicit-function-declaration
 %global optflags %{optflags} -Wno-incompatible-function-pointer-types
 
+%define _disable_ld_no_undefined 1
+%define _disable_lto 1
+
 Name:           ptyxis
 Version:        46.5
 Release:        1
