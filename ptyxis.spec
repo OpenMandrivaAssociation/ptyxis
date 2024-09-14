@@ -5,7 +5,7 @@
 %define _disable_lto 1
 
 Name:           ptyxis
-Version:        46.5
+Version:        47.0
 Release:        1
 Summary:        A terminal for GNOME with first-class support for containers
 License:        GPL-3.0-or-later
