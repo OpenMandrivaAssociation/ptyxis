@@ -30,12 +30,12 @@ Ptyxis is a terminal for GNOME with first-class support for containers.
 %autosetup -p1
 
 %build
-export CC=gcc
-export CXX=g++
+#export CC=gcc
+#export CXX=g++
 %meson
 %meson_build
 
 %install
-%meson_instal
+%meson_install
 
 %files
