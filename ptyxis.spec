@@ -5,12 +5,12 @@
 #define _disable_lto 1
 
 Name:           ptyxis
-Version:        48.4
+Version:        48.5
 Release:        1
 Summary:        A terminal for GNOME with first-class support for containers
 License:        GPL-3.0-or-later
 URL:            https://www.gnome.org
-Source:         https://download.gnome.org/sources/ptyxis/47/ptyxis-%{version}.tar.xz
+Source:         https://download.gnome.org/sources/ptyxis/48/ptyxis-%{version}.tar.xz
 
 BuildRequires:  appstream-util
 BuildRequires:  gettext
