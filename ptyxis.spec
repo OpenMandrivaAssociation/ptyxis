@@ -8,7 +8,7 @@
 
 Name:           ptyxis
 Version:        50.1
-Release:        2
+Release:        3
 Summary:        A terminal for GNOME with first-class support for containers
 License:        GPL-3.0-or-later
 URL:            https://gitlab.gnome.org/chergert/ptyxis
